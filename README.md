@@ -18,12 +18,12 @@ Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to com.bibere.arfwe. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third-party services that may collect information used to identify you.
-Link to the privacy policy of third-party service providers used by the app
-[Google Play Services](https://policies.google.com/privacy)
-[Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-[Facebook](https://www.facebook.com/about/privacy/update/printable)
-[One Signal](https://onesignal.com/privacy_policy)
-[Appsflyer](https://www.appsflyer.com/legal/privacy-policy/)
+Link to the privacy policy of third-party service providers used by the app <br>
+[Google Play Services](https://policies.google.com/privacy)<br>
+[Firebase Crashlytics](https://firebase.google.com/support/privacy/)<br>
+[Facebook](https://www.facebook.com/about/privacy/update/printable)<br>
+[One Signal](https://onesignal.com/privacy_policy)<br>
+[Appsflyer](https://www.appsflyer.com/legal/privacy-policy/)<br>
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
