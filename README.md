@@ -1,3 +1,5 @@
+[<img src="google-play-badge.png" width="300" height="116"/>](https://google.com)
+
 Jojobet Ultimate
 Privacy and security: Our site title policy
 
