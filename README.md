@@ -1,4 +1,7 @@
-[<img src="google-play-badge.png" width="250" height="97"/>](https://google.com) [<img src="google-play-badge.png" width="250" height="97"/>](https://google.com)
+<p float="left">
+  [<img src="google-play-badge.png" width="250" height="97"/>](https://google.com)
+  [<img src="contact-button.png" width="250" height="98"/>](mailto:support@jojobet-ultimate.io)
+</p>
 
 Jojobet Ultimate
 Privacy and security: Our site title policy
