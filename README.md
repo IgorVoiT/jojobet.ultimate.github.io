@@ -1,6 +1,6 @@
 <p float="left">
-  <a href="https://google.com"><img src="google-play-badge.png" width="250" height="97"/></a>
-  <a href="mailto:support@jojobet-ultimate.io"><img src="contact-button.png" width="250" height="98"/></a>
+  <a href="https://google.com"><img src="google-play-badge.png" width="220" height="85"/></a>
+  <a href="mailto:support@jojobet-ultimate.io"><img src="contact-button.png" width="220" height="85"/></a>
 </p>
 
 Jojobet Ultimate
