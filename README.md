@@ -1,6 +1,6 @@
 <p float="left">
   <a href="https://play.google.com/store/apps/details?id=com.jojoxfb.aprslrp"><img src="google-play-badge.png" width="220" height="85"/></a>
-  <a href="mailto:support@Bets10-bright.io"><img src="contact-button.png" width="220" height="85"/></a>
+  <a href="mailto:support@jojobetultimate.online"><img src="contact-button.png" width="220" height="85"/></a>
 </p>
 
 Jojobet Ultimate
@@ -84,4 +84,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 This policy is effective as of 2023-06-01 15:00
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@Bets10-bright.io.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@jojobetultimate.online.
